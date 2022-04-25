@@ -1,0 +1,1 @@
+ssh -i ../../googledoc/DFA3.pem ec2-user@3.131.21.255
